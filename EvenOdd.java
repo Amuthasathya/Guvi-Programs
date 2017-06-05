@@ -11,6 +11,10 @@ class EvenOdd
 		{
 			System.out.println("Odd");
 		}
+		else
+		{
+			System.out.println("Null entry");
+		}
 	}
 }
 	
